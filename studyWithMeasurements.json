@@ -14,23 +14,16 @@
                 "sopInstanceUid": "1.3.12.2.1107.5.1.4.49206.30000006010208502368700003639",
                 "url": "dicomweb://raw.githubusercontent.com/galelis/testData/master/CT/1.3.12.2.1107.5.1.4.49206.30000006010208502368700003639.dcm"
               }
+              {
+                "columns": 1,
+                "instanceNumber": 1,
+                "rows": 1,
+                "sopInstanceUid": "2.25.323625113548221066546942298740917375026",
+                "url": "dicomweb://raw.githubusercontent.com/galelis/testData/master/SR/2.25.323625113548221066546942298740917375026.dcm"
+              }
             ],
             "seriesDescription": "CT",
             "seriesInstanceUid": "1.3.12.2.1107.5.1.4.49206.30000006010208502368700003638"
-          },
-          {
-            "instances": [
-                {
-                  "columns": 1,
-                  "instanceNumber": 1,
-                  "rows": 1,
-                  "sopInstanceUid": "2.25.323625113548221066546942298740917375026",
-                  "url": "dicomweb://raw.githubusercontent.com/galelis/testData/master/SR/2.25.323625113548221066546942298740917375026.dcm"
-                }
-              ],
-              "seriesDescription": "SR",
-              "modality": "SR",
-              "seriesInstanceUid": "1.3.12.2.1107.5.1.4.49206.30000006010208502368700003638"
           }
         ],
         "studyInstanceUid": "1.2.840.113619.6.95.31.0.3.4.1.6013.13.2182798"
