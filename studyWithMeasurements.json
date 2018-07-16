@@ -24,9 +24,7 @@
           {
             "instances": [
                 {
-                  "columns": 1,
                   "instanceNumber": 1,
-                  "rows": 1,
                   "imageRendering": "wadouri",
                   "modality": "SR",
                   "sopClassUid": "1.2.840.10008.5.1.4.1.1.88.22",
