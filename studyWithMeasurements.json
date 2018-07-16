@@ -1,8 +1,9 @@
 {
-    "transactionId": "CRStudy",
+    "transactionId": "CTWithMeasurementsStudy",
     "studies": [
       {
-        "patientName": "MISTER^CR",
+        "patientName": "MISTER^CT",
+        "patientId": "MISTER^CT",
         "seriesList": [
           {
             "instances": [
@@ -10,22 +11,29 @@
                 "columns": 3062,
                 "instanceNumber": 1,
                 "rows": 3730,
-                "sopInstanceUid": "1.3.51.5145.5142.20010109.1105627.1.0.1",
-                "url": "dicomweb://s3.amazonaws.com/lury/CRStudy/1.3.51.5145.5142.20010109.1105627.1.0.1.dcm"
-              },
-              {
-                "columns": 2570,
-                "instanceNumber": 1,
-                "rows": 2040,
-                "sopInstanceUid": "1.3.51.5145.5142.20010109.1105752.1.0.1",
-                "url": "dicomweb://s3.amazonaws.com/lury/CRStudy/1.3.51.5145.5142.20010109.1105752.1.0.1.dcm"
+                "sopInstanceUid": "1.3.12.2.1107.5.1.4.49206.30000006010208502368700003639",
+                "url": "dicomweb://gist.githubusercontent.com/galelis/3768317e24965f5e7fd1a4dbb1c976e5/raw/d7433f23eadb79403a6803941b4b202f2c17f482/CT/1.3.12.2.1107.5.1.4.49206.30000006010208502368700003639.dcm"
               }
             ],
-            "seriesDescription": "Pelvis",
-            "seriesInstanceUid": "1.3.51.5145.15142.20010109.1105627"
+            "seriesDescription": "CT",
+            "seriesInstanceUid": "1.3.12.2.1107.5.1.4.49206.30000006010208502368700003638"
+          },
+          {
+            "instances": [
+                {
+                  "columns": 1,
+                  "instanceNumber": 1,
+                  "rows": 1,
+                  "sopInstanceUid": "2.25.323625113548221066546942298740917375026",
+                  "url": "dicomweb://gist.githubusercontent.com/galelis/3768317e24965f5e7fd1a4dbb1c976e5/raw/d7433f23eadb79403a6803941b4b202f2c17f482/SR/2.25.323625113548221066546942298740917375026.dcm"
+                }
+              ],
+              "seriesDescription": "SR",
+              "modality": "SR",
+              "seriesInstanceUid": "1.3.12.2.1107.5.1.4.49206.30000006010208502368700003638"
           }
         ],
-        "studyInstanceUid": "1.3.51.0.7.633918642.633920010109.6339100821"
+        "studyInstanceUid": "1.2.840.113619.6.95.31.0.3.4.1.6013.13.2182798"
       }
     ]
   }
