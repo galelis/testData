@@ -12,7 +12,7 @@
                 "instanceNumber": 1,
                 "rows": 3730,
                 "sopInstanceUid": "1.3.12.2.1107.5.1.4.49206.30000006010208502368700003639",
-                "url": "dicomweb://gist.githubusercontent.com/galelis/3768317e24965f5e7fd1a4dbb1c976e5/raw/d7433f23eadb79403a6803941b4b202f2c17f482/CT/1.3.12.2.1107.5.1.4.49206.30000006010208502368700003639.dcm"
+                "url": "dicomweb://raw.githubusercontent.com/galelis/testData/master/CT/1.3.12.2.1107.5.1.4.49206.30000006010208502368700003639.dcm"
               }
             ],
             "seriesDescription": "CT",
@@ -25,7 +25,7 @@
                   "instanceNumber": 1,
                   "rows": 1,
                   "sopInstanceUid": "2.25.323625113548221066546942298740917375026",
-                  "url": "dicomweb://gist.githubusercontent.com/galelis/3768317e24965f5e7fd1a4dbb1c976e5/raw/d7433f23eadb79403a6803941b4b202f2c17f482/SR/2.25.323625113548221066546942298740917375026.dcm"
+                  "url": "dicomweb://raw.githubusercontent.com/galelis/testData/master/SR/2.25.323625113548221066546942298740917375026.dcm"
                 }
               ],
               "seriesDescription": "SR",
