@@ -29,7 +29,8 @@
                   "modality": "SR",
                   "sopClassUid": "1.2.840.10008.5.1.4.1.1.88.22",
                   "sopInstanceUid": "2.25.323625113548221066546942298740917375026",
-                  "url": "dicomweb://raw.githubusercontent.com/galelis/testData/master/SR/2.25.323625113548221066546942298740917375026.dcm"
+                  "url": "dicomweb://raw.githubusercontent.com/galelis/testData/master/SR/2.25.323625113548221066546942298740917375026.dcm",
+                  "wadouri": "https://raw.githubusercontent.com/galelis/testData/master/SR/2.25.323625113548221066546942298740917375026.dcm"
                 }
               ],
               "seriesDescription": "SR",
